@@ -1,0 +1,13 @@
+version GTN-1.04
+Updated config version to 2.7
+added Catch IronGolem
+still unable to spawn from the spawn_egg
+
+version GTN-1.05
+Trying to add in special spawn_egg spawning for an IronGolem
+The basic idea is stored in 2.6.2-GTN EggCatcherPlayerListener
+I can now able to spawn an Iron Golem but refinement is needed.
+
+Version GTN-1.06
+Finished adding in special spawn egg spawning for all mob types
+by adding EggNBT and processing in EggCatcherPlayerListener
